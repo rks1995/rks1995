@@ -3,7 +3,7 @@
 <br>
 - 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **UI/UX**
 
 - 💬 Ask me about **MERN Stack and related Technologies**
 
