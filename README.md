@@ -3,7 +3,7 @@
 <br>
 - 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **MERN Stack and related Technologies**
 
