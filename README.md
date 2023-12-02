@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ratna</h1>
-<h3 align="center">A passionate frontend developer from India 🇮🇳 Working to become Full Stack Developer</h3>
 <br>
 
 - 🔭 I’m currently working as a software developer at **Rapid Acceleration Partner**
