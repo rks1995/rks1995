@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ratna</h1>
 <br>
 
-- 🔭 I’m currently working as a software developer at **Rapid Acceleration Partner**
+- 🔭 I’m currently working as a software developer at **State Bank Of India**
 
 - 📫 How to reach me **sratnakumar99@gmail.com**
 
